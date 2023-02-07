@@ -43,7 +43,7 @@ nav li {
 .btn-primary {
 
     height: 64px;
-    width: 230px;
+
     padding: 18px 35px;
     border: 0;
     background: #FD6E0A;
@@ -53,7 +53,7 @@ nav li {
     color: #FFFFFF;
 }
 
-.btn-secondary {
+/* .btn-secondary {
 
     height: 64px;
     width: 150px;
@@ -64,7 +64,7 @@ nav li {
     font-weight: 700;
     font-size: 20px;
     color: #FFFFFF;
-}
+} */
 
 .banner {
     margin: 0 100px;
